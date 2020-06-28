@@ -1,0 +1,581 @@
+/* 466px */
+
+@media(max-width:466px){
+    header{
+        height: 100vh;
+    }
+    .navbar{
+        padding: 10px 0 0;margin:0;
+    }
+    .nav-item{
+        margin: 0;
+        padding-bottom: 12px;
+    }
+    .nav-link{
+        font-size: 14px;
+    }
+    .nav-item .btn{
+        width: 100%;
+        text-align: left;
+        border-radius: 5px;
+        margin-bottom: 6px;
+    }
+    #navbar::after{
+        display: none;
+    }
+    .navbar{
+        background-color: #000;
+    }
+    .carousel-caption h2{
+        font-size: 45px!important;
+    }
+    .carousel-caption h1{
+        font-size: 22px!important;
+    }
+    .carousel-caption .delicious{
+        font-size: 20px!important;
+    }
+    .carousel-control-prev,.carousel-control-next{
+        display: none;
+    }
+    .carousel-caption{
+        top: 60%;
+        transform: translateY(-60%);
+    }
+    .header_dish::before{
+
+        display: none;
+    }
+    .header_dish h2{
+        color: #000;
+    }
+    .header_dish p{
+        color: #666666;
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+    .header_dish{
+        padding-top: 50px;
+    }
+
+    .about .img-2{
+        margin: 0;
+    }
+    .about .img-1{
+        margin: 0;
+    }
+    .about img{
+        height: 500px;
+        padding-bottom: 20px;
+    }
+    .about h3{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .clients .mobile_media{
+        padding: 0!important;
+        font-size: 14px;
+        text-align: center!important;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services h1{
+        font-size: 90px;
+    }
+    .services{
+        height: auto;
+    }
+    .specialities h1{
+        font-size: 70px;
+    }
+    .specialities h2{
+        font-size: 45px;
+    }
+    .specialities h2{
+        margin-top: -50px;
+    }
+    .specialities .row .col-lg-3:nth-child(1){
+        order: 1;
+    }
+    .specialities .row .col-lg-3:nth-child(2){
+        order: 2;
+    }
+    .specialities .row .col-lg-3:nth-child(3){
+        order: 3;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(4){
+        order: 4;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(5){
+        order: 6;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(6){
+        order: 5;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(7){
+        order: 8;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(8){
+        order: 7;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(9){
+        order: 9;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(10){
+        order:10;
+    }
+    .chef h2{
+        font-size: 90px;
+    }
+    .chef h1{
+        font-size: 34px;
+        margin-top: -38px;
+    }
+    .chef .fab{
+        padding-bottom: 20px;
+    }
+    .chef img{
+        border-radius: 10px;
+    }
+    .bookings .formbook{
+        display: block!important;
+    }
+    .bookings label{
+        font-size: 17px;
+    }
+    .bookings .form-control{
+        border-radius: 0;
+        height: 45px;
+    }
+    .bookings h2{
+        font-size: 40px;
+    }
+    .blog  h2{
+        font-size: 40px;
+    }
+    footer{
+        height: auto;
+    }
+    footer blockquote{
+        padding-bottom: 40px;
+    }
+    footer .news{
+        padding-top: 40px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* 768px */
+
+
+
+
+
+
+
+@media (min-width: 467px) and (max-width: 768px) {
+    header{
+        height: 100vh;
+    }
+    .navbar{
+        padding: 10px 0 0;margin:0;
+    }
+    .nav-item{
+        margin: 0;
+        padding-bottom: 12px;
+    }
+    .nav-link{
+        font-size: 14px;
+    }
+    .nav-item .btn{
+        width: 100%;
+        text-align: left;
+        border-radius: 5px;
+        margin-bottom: 6px;
+    }
+    #navbar::after{
+        display: none;
+    }
+    .navbar{
+        background-color: #000;
+    }
+    .carousel-caption h2{
+        font-size: 85px!important;
+    }
+    .carousel-caption h1{
+        font-size: 35px!important;
+    }
+    /* .carousel-caption .delicious{
+        font-size: 20px!important;
+    } */
+    .carousel-control-prev,.carousel-control-next{
+        display: none;
+    }
+    .carousel-caption{
+        top: 55%;
+        transform: translateY(-55%);
+    }
+    .header_dish::before{
+
+        display: none;
+    }
+    .header_dish h2{
+        color: #000;
+    }
+    .header_dish p{
+        color: #666666;
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+    .header_dish{
+        padding-top: 50px;
+    }
+
+    .about .img-2{
+        margin: 0;
+    }
+    .about .img-1{
+        margin: 0;
+    }
+    .about img{
+        height: 500px;
+        padding-bottom: 20px;
+    }
+    .about h3{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .clients .mobile_media{
+        padding: 0!important;
+        font-size: 14px;
+        text-align: center!important;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services h1{
+        font-size: 90px;
+    }
+    .services{
+        height: auto;
+    }
+    .specialities h1{
+        font-size: 70px;
+    }
+    .specialities h2{
+        font-size: 45px;
+    }
+    .specialities h2{
+        margin-top: -50px;
+    }
+    .specialities .row .col-lg-3:nth-child(1){
+        order: 1;
+    }
+    .specialities .row .col-lg-3:nth-child(2){
+        order: 2;
+    }
+    .specialities .row .col-lg-3:nth-child(3){
+        order: 3;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(4){
+        order: 4;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(5){
+        order: 6;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(6){
+        order: 5;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(7){
+        order: 8;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(8){
+        order: 7;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(9){
+        order: 9;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(10){
+        order:10;
+    }
+    .chef h2{
+        font-size: 90px;
+    }
+    .chef h1{
+        font-size: 34px;
+        margin-top: -38px;
+    }
+    .chef .fab{
+        padding-bottom: 20px;
+    }
+    .chef img{
+        border-radius: 10px;
+    }
+    .bookings .formbook{
+        display: block!important;
+    }
+    .bookings label{
+        font-size: 17px;
+    }
+    .bookings .form-control{
+        border-radius: 0;
+        height: 45px;
+    }
+    .bookings h2{
+        font-size: 40px;
+    }
+    .blog  h2{
+        font-size: 40px;
+    }
+    footer{
+        height: auto;
+    }
+    footer blockquote{
+        padding-bottom: 40px;
+    }
+    footer .news{
+        padding-top: 40px;
+    }
+
+
+
+}
+
+
+
+/* 991px */
+
+
+@media (min-width: 769px) and (max-width: 991px){
+    header{
+        height: 100vh;
+    }
+    .navbar{
+        padding: 10px 0 0;margin:0;
+    }
+    .nav-item{
+        margin: 0;
+        padding-bottom: 12px;
+    }
+    .nav-link{
+        font-size: 14px;
+    }
+    .nav-item .btn{
+        width: 100%;
+        text-align: left;
+        border-radius: 5px;
+        margin-bottom: 6px;
+    }
+    #navbar::after{
+        display: none;
+    }
+    .navbar{
+        background-color: #000;
+    }
+    .carousel-caption h2{
+        font-size: 85px!important;
+    }
+    .carousel-caption h1{
+        font-size: 35px!important;
+    }
+    /* .carousel-caption .delicious{
+        font-size: 20px!important;
+    } */
+    .carousel-control-prev,.carousel-control-next{
+        display: none;
+    }
+    .carousel-caption{
+        top: 55%;
+        transform: translateY(-55%);
+    }
+    .header_dish::before{
+
+        display: none;
+    }
+    .header_dish h2{
+        color: #000;
+    }
+    .header_dish p{
+        color: #666666;
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+    .header_dish{
+        padding-top: 50px;
+    }
+
+    .about .img-2{
+        margin: 0;
+    }
+    .about .img-1{
+        margin: 0;
+    }
+    .about img{
+        height: 500px;
+        padding-bottom: 20px;
+    }
+    .about h3{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .clients .mobile_media{
+        padding: 0!important;
+        font-size: 14px;
+        text-align: center!important;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services h1{
+        font-size: 90px;
+    }
+    .services{
+        height: auto;
+    }
+    .specialities h1{
+        font-size: 70px;
+    }
+    .specialities h2{
+        font-size: 45px;
+    }
+    .specialities h2{
+        margin-top: -50px;
+    }
+    .specialities .row .col-lg-3:nth-child(1){
+        order: 1;
+    }
+    .specialities .row .col-lg-3:nth-child(2){
+        order: 2;
+    }
+    .specialities .row .col-lg-3:nth-child(3){
+        order: 3;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(4){
+        order: 4;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(5){
+        order: 5;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(6){
+        order: 6;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(7){
+        order: 7;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(8){
+        order: 8;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(9){
+        order: 9;
+    }
+    
+    
+    .specialities .row .col-lg-3:nth-child(10){
+        order:10;
+    }
+    .specialities .row .col-lg-3:nth-child(11){
+        order:11;
+    }
+    .specialities .row .col-lg-3:nth-child(12){
+        order:12;
+    }
+    .chef h2{
+        font-size: 90px;
+    }
+    .chef h1{
+        font-size: 34px;
+        margin-top: -38px;
+    }
+    .chef .fab{
+        padding-bottom: 20px;
+    }
+    .chef img{
+        border-radius: 10px;
+    }
+    .bookings .formbook{
+        display: block!important;
+    }
+    .bookings label{
+        font-size: 17px;
+    }
+    .bookings .form-control{
+        border-radius: 0;
+        height: 45px;
+    }
+    .bookings h2{
+        font-size: 55px;
+    }
+    .blog  h2{
+        font-size: 40px;
+    }
+    footer{
+        height: auto;
+    }
+    footer blockquote{
+        padding-bottom: 40px;
+    }
+    /* footer .news{
+        /* padding-top: 40px; */
+    /* } */
+   
+
+}
+
+
+/* 992px  */
+
+@media(min-width: 992px){
+    
+}
